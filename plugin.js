@@ -1,7 +1,7 @@
 {
-    "moduleId" : " ... the name of the github repository ...",
+    "moduleId" : "grabowCommuter/Test1",
     "title" : "Test",
-    "subtitle" : "Test Alert, Confirm, Promt",
+    "subtitle" : "Test Alert, Confirm, Promt (useful for developers only)",
     
     "loadDataWithBaseUrl2" : 
     "
